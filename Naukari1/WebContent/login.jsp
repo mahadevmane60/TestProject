@@ -17,9 +17,10 @@
 <div style="    float: left;
     width: 100%;
     margin-top: 79PX;
-    background: #130505d4;
+    background-color: #130505d4;
     height: ca;
-    height: calc(100vh - 79px);">
+    height: calc(100vh - 79px);
+    ">
 
 
   <div class="login-card" style="width:450px;padding-top:15px;">

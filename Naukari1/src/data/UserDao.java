@@ -1,12 +1,19 @@
 package data;
+
 import java.util.List;
+import model.User;
 
-import model.*;
-public interface UserDao {
-
-	List<User> getUsers()throws Exception;
-	boolean saveUser(User user)throws Exception;
-	boolean updateUser(User user)throws Exception;
-	boolean deleteUser(String userId)throws Exception;
-	
+public abstract interface UserDao
+{
+  public abstract List<User> getUsers()
+    throws Exception;
+  
+  public abstract boolean saveUser(User paramUser)
+    throws Exception;
+  
+  public abstract boolean updateUser(User paramUser)
+    throws Exception;
+  
+  public abstract boolean deleteUser(String paramString)
+    throws Exception;
 }

@@ -19,7 +19,7 @@ ${msg}
  Enter Your Email: <br>
  <input type="text" name="email">  <br><br>
  <input type="submit" value="GET PASSWORD"> <br>
-  You will get a mail with your password. Please check the password in mail re-login.
+  You will get a mail with your password. Please check the password in mail & re-login.
 </form>
 </div>
 </body>

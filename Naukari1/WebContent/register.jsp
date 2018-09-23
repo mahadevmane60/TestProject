@@ -145,6 +145,13 @@ margin:0px !important;
 				</div>
 				
 				<div class="userinfoData setMargin">
+					<div class="userLabel">Center name:</div>
+					<div class="userLabelTextox">
+						<input type="text" placeholder="Center Name" name="centername" />
+					</div>
+				</div>
+					
+				<div class="userinfoData setMargin">
 					<div class="userLabel">State</div>
 					<div class="userLabelTextox">
 						<select name="state" id="locationstate" required>

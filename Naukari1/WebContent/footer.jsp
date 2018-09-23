@@ -21,7 +21,7 @@
 		<div class="container" style="    background-color: transparent;">	
 			<div class="col-md-4 col-md-offset-4">
 				<div class="copyright">
-					&copy; Naukari 2018 All Rights Reserved 
+					&copy; Online-Seva 2018 All Rights Reserved 
                    
 				</div>
 			</div>						
