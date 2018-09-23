@@ -1,0 +1,1 @@
+create table user_details(email char(40) primary key, name char(50),password char(30),dob date,phno char(13),address  char(100),city char(30),state char(30));

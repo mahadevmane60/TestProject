@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: red;
+}
+.login {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login a {
+    float: right;
+    font-size: 16px;
+    color: #00b38f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-style: solid;
+    border-color: #00b38f;
+    border-radius: 10px;
+}
+.login a:hover {
+    background-color: #cc0066;
+}
+img.home_icon {
+    width: 100%;
+   
+} 
